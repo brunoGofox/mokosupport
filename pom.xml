@@ -1,0 +1,14 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+ 
+    <groupId>com.github.brunoGofox</groupId>
+    <artifactId>mokosupport</artifactId>
+    <version>1</version>
+
+    <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
+</project>
