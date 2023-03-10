@@ -10,6 +10,10 @@ buildscript {
 }
 
 apply plugin: 'com.android.library'
+apply plugin: 'maven-publish'
+
+
+group = 'com.github.brunoGofox'
 
 android {
     compileSdkVersion 29
